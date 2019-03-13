@@ -1,4 +1,4 @@
-package com.abdelazim.x.aqark.details;
+package com.abdelazim.x.aqark.details.view;
 
 
 import android.os.Bundle;
@@ -15,6 +15,7 @@ import com.abdelazim.x.aqark.R;
  */
 public class DetailsFragment extends Fragment {
 
+    // here will be the variables
 
     public DetailsFragment() {
         // Required empty public constructor
