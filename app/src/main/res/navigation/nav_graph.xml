@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailsFragment"
-        android:name="com.abdelazim.x.aqark.details.DetailsFragment"
+        android:name="com.abdelazim.x.aqark.details.view.DetailsFragment"
         android:label="fragment_details"
         tools:layout="@layout/fragment_details" >
         <action
